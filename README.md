@@ -1,1 +1,1 @@
-<center>Blog<center>
+<center>Blog</center>

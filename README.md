@@ -1,1 +1,1 @@
-# <center>Blog</center>
+<p align="center">Blog</p>
